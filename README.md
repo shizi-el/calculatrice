@@ -5,3 +5,7 @@ Gtkmm est une variante en c++, de GTK qui est un ensemble de bibliothèques logi
 Glade est un outil interactif de conception d'interface graphique GTK+.
 
 Gtkmm est une alternative a QT.
+
+NB: c'est un TP, d'apprentissage du langage c++.
+
+Toute correction ou suggestion est la bienvenu !
