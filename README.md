@@ -6,6 +6,6 @@ Glade est un outil interactif de conception d'interface graphique GTK+.
 
 Gtkmm est une alternative a QT.
 
-NB: c'est un TP, d'apprentissage du langage c++.
+NB: c'est le resultat d'un TP, d'apprentissage du langage c++.
 
 Toute correction ou suggestion est la bienvenu !
